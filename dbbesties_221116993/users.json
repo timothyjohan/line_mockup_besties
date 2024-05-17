@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6563589d95b99924395dde98"
+  },
+  "id": 1,
+  "username": "asd",
+  "password": "asd",
+  "phone": "0816969666",
+  "friends": [
+    2,
+    3,
+    4,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "656358b595b99924395dde9a"
+  },
+  "id": 2,
+  "username": "123",
+  "password": "123",
+  "phone": "081127399273",
+  "friends": [
+    1,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "656358db95b99924395dde9c"
+  },
+  "id": 3,
+  "username": "timothy",
+  "password": "321",
+  "phone": "081259488478",
+  "friends": [
+    1,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "656358e695b99924395dde9e"
+  },
+  "id": 5,
+  "username": "iwannadie",
+  "password": "die",
+  "phone": "083728492042",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "656358ef95b99924395ddea0"
+  },
+  "id": 6,
+  "username": "irfan",
+  "password": "ratna",
+  "phone": "08372648336",
+  "friends": [
+    1
+  ]
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65635b2e102065e48ea8dd40"
+  },
+  "id": 1,
+  "context": "Halo apa benar ini dengan bapak Enrico?",
+  "from": 2,
+  "to": 1
+},
+{
+  "_id": {
+    "$oid": "65635b36102065e48ea8dd42"
+  },
+  "id": 5,
+  "context": "HEHHEHEHEHHEHEHHEHEHE",
+  "from": 2,
+  "to": 3
+},
+{
+  "_id": {
+    "$oid": "65635b3d102065e48ea8dd44"
+  },
+  "id": 7,
+  "context": "emg lu siapa :D",
+  "from": 1,
+  "to": 2
+}]

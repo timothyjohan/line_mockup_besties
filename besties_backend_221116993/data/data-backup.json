@@ -1,0 +1,88 @@
+{
+    "users":[
+        {
+            "id":1,
+            "username": "asd",
+            "password": "asd",
+            "phone": "0816969666",
+            "friends":[
+                2, 3, 4, 6, 4
+            ]
+        },
+        {
+            "id":2,
+            "username": "123",
+            "password": "123",
+            "phone": "081127399273",
+            "friends":[
+                1, 3
+            ]
+        },
+        {
+            "id":3,
+            "username": "timothy",
+            "password": "321",
+            "phone": "081259488478",
+            "friends":[
+                1, 2
+            ]
+        },
+        {
+            "id":4,
+            "username": "ivansus",
+            "password": "anu",
+            "phone": "081263945734",
+            "friends":[
+                1
+            ]
+        },
+        {
+            "id":5,
+            "username": "iwannadie",
+            "password": "die",
+            "phone": "083728492042",
+            "friends":[]
+        },
+        {
+            "id":6,
+            "username": "irfan",
+            "password": "ratna",
+            "phone": "08372648336",
+            "friends":[
+                1
+            ]
+        }
+    ],
+    "chats":[
+        {
+            "id":1,
+            "context":"Halo apa benar ini dengan bapak Enrico?",
+            "from":2,
+            "to": 1
+        },
+        {
+            "id":2,
+            "context":"hah?",
+            "from":1,
+            "to": 2
+        },
+        {
+            "id":3,
+            "context":"Loh heh?",
+            "from":2,
+            "to": 1
+        },
+        {
+            "id":4,
+            "context":"nais",
+            "from":1,
+            "to": 3
+        },
+        {
+            "id":5,
+            "context":"HEHHEHEHEHHEHEHHEHEHE",
+            "from":2,
+            "to": 3
+        }
+    ]
+}
